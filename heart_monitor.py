@@ -1,5 +1,5 @@
+#!/usr/bin/env python3
 # heart_monitor.py
-
 from models import Session, Person, HeartRate
 from alerts import check_alert
 
