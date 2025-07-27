@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import advice
 from evaluator import check_heart_rate
 from advice import fetch_health_tips
 
